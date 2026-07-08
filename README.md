@@ -93,8 +93,9 @@ Key Indicators:
 
 
 ## Repository Structure
+```text
 
-Africa-Digital-Development-Dashboard/
+Africa-Digital-Development-Anlysis /
 
 │
 ├── Data/
@@ -117,7 +118,7 @@ Africa-Digital-Development-Dashboard/
 │
 ├── README.md
 
-
+```
 
 ## Author
 

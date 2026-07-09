@@ -1,4 +1,4 @@
-# Africa-Digital-Development-WDI-Based-Analysis (2000–2024)
+# Africa Digital Development (WDI-Based) Analysis (2000–2024)
 
 ## Project Overview
 
